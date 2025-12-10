@@ -13,29 +13,6 @@ I love building things that solve real problems, whether it’s a microservice, 
 🔸 Language Learning App (Side Project)
 
 I’m currently building a flashcard-like language learning application to store and review translated words — a real project I’m using to learn both Python and improve my German.
-This app also includes:
-
-A backend for saving and organizing vocab
-
-Translation features
-
-Plans for a desktop frontend
-
-🔸 Studying Python Through Practical Development
-
-The app is part of my goal to become comfortable creating Python-based tools, scripts, and APIs.
-
-🔸 Running My Own Home Server
-
-I’m experimenting with:
-
-Hosting personal applications
-
-Handling deployment environments
-
-Understanding networking and system administration in practice
-
-This helps me understand how backend systems behave outside of a local environment.
 
 🛠️ Tools & Technologies I Use
 
