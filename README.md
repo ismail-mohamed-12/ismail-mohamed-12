@@ -14,6 +14,27 @@ I love building things that solve real problems, whether it’s a microservice, 
 
 I’m currently building a flashcard-like language learning application to store and review translated words — a real project I’m using to learn both Python and improve my German.
 
+
+
+📫 How to Reach Me
+
+Feel free to reach out — I’m always open to collaboration, freelance work, or interesting technical conversations.
+
+Email: ismail.mohamed.nasreldin@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/moham-ismail/
+
+
+
+
+
+
+
+
+<!--
+**ismail-mohamed-12/ismail-mohamed-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 🛠️ Tools & Technologies I Use
 
 Languages:
@@ -45,27 +66,6 @@ Wireshark,Nmap,Pcap4J,Bash scripting
 Other Skills
 Git & GitHub,Power BI,Figma,Notion
 Fast typing, efficient research
-
-📫 How to Reach Me
-
-Feel free to reach out — I’m always open to collaboration, freelance work, or interesting technical conversations.
-
-Email: ismail.mohamed.nasreldin@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/moham-ismail/
-
-
-
-
-
-
-
-
-<!--
-**ismail-mohamed-12/ismail-mohamed-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
