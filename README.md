@@ -38,69 +38,35 @@ Understanding networking and system administration in practice
 This helps me understand how backend systems behave outside of a local environment.
 
 🛠️ Tools & Technologies I Use
-Languages
 
-Java (Primary)
-
-Python
+Languages:
+Java (Primary) ,Python
 
 
-Backend & Frameworks
-
+Backend & Frameworks:
 Spring Boot
-
 JWT Authentication / Spring Security
-
 Microservice Architecture
-
 REST APIs
 
 Frontend & UI
-
-React
-
-Vite
-
-Tailwind CSS
-
-HTML/CSS
+React,Vite,Tailwind CSS,HTML/CSS
 
 Databases
-
-PostgreSQL
-
-Relational DB design
+PostgreSQL,Relational DB design
 
 DevOps & Systems
-
-Docker
-
-Linux/Ubuntu
+Docker,Linux/Ubuntu
 
 Home server deployment
 
 Networking fundamentals
 
 Security Tools
-
-Wireshark
-
-Nmap
-
-Pcap4J
-
-Bash scripting
+Wireshark,Nmap,Pcap4J,Bash scripting
 
 Other Skills
-
-Git & GitHub
-
-Power BI
-
-Figma
-
-Notion
-
+Git & GitHub,Power BI,Figma,Notion
 Fast typing, efficient research
 
 📫 How to Reach Me
@@ -111,12 +77,8 @@ Email: ismail.mohamed.nasreldin@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/moham-ismail/
 
-GitHub: This profile
 
-⭐ A Bit About My Philosophy
 
-I believe great engineering comes from curiosity, persistence, and clear communication.
-I love breaking down complex problems, building real-world projects, and constantly improving my technical toolkit.
 
 
 
