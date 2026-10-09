@@ -29,6 +29,7 @@ LinkedIn: https://www.linkedin.com/in/moham-ismail/
 
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/dada523b-afcc-446c-9c7c-9b38da8a595d.jpeg?v=1791500428)](https://www.boot.dev/certificates/dada523b-afcc-446c-9c7c-9b38da8a595d)
 
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/cd7c21f0-63e2-4f5d-ada2-b7b5bad170c6.jpeg?v=1791553506)](https://www.boot.dev/certificates/cd7c21f0-63e2-4f5d-ada2-b7b5bad170c6)
 
 
 
